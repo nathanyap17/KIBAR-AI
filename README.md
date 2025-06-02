@@ -96,7 +96,7 @@ Ensure your webcam is connected and Arduino is properly communicating over the c
 
 ## 📸 Visual Preview
 
-![KIBAR-AI Poster](assets/KIBAR-AI Kenali Isyarat, Braille Automatik Respons (Landscape A1)-1.png) <!-- Replace with actual asset path -->
+![KIBAR-AI Poster](assets\KIBAR-AI_Kenali_Isyarat_Braille_Automatik_Respons_(Landscape A1)_1.png) <!-- Replace with actual asset path -->
 
 ---
 
